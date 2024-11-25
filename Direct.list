@@ -6,6 +6,22 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 
+#PT
+DOMAIN-SUFFIX,qingwapt.com
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,hdkyl.in
+DOMAIN-SUFFIX,carpt.net
+DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,haidan.video
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,1ptba.com
+DOMAIN-SUFFIX,agsvpt.com
+DOMAIN-SUFFIX,icc2022.com
+DOMAIN-SUFFIX,iyuu.cn
+
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
