@@ -1,0 +1,32 @@
+# 直连补充列表(国内域名不解析时，防止走代理使用)
+
+# MyList
+# 域名后缀匹配
+#PT
+DOMAIN-SUFFIX,qingwapt.com
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,hdkyl.in
+DOMAIN-SUFFIX,carpt.net
+DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,haidan.video
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,1ptba.com
+DOMAIN-SUFFIX,agsvpt.com
+DOMAIN-SUFFIX,icc2022.com
+DOMAIN-SUFFIX,iyuu.cn
+
+DOMAIN-KEYWORD,qingwa
+DOMAIN-KEYWORD,qingwapt
+DOMAIN-KEYWORD,m-team
+DOMAIN-KEYWORD,hdkyl
+DOMAIN-KEYWORD,carpt
+DOMAIN-KEYWORD,btschool
+DOMAIN-KEYWORD,haidan
+DOMAIN-KEYWORD,hdfans
+DOMAIN-KEYWORD,52pt
+DOMAIN-KEYWORD,1ptba
+DOMAIN-KEYWORD,agsvpt
+DOMAIN-KEYWORD,icc2022
+DOMAIN-KEYWORD,iyuu
