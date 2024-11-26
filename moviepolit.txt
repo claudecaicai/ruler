@@ -1,0 +1,6 @@
+#斗破苍穹 年番
+Fights.Break.Sphere.S05(?=.*HHWEB) => {[tmdbid=79481;type=tv;s=5]}
+Fights.Break.Sphere.2022.S05(?=.*HHWEB) => {[tmdbid=79481;type=tv;s=5]}
+斗破苍穹年番.Fights.Break.Sphere.S05(?=.*HHWEB) => {[tmdbid=79481;type=tv;s=5]}
+
+#斗破苍穹 年番
