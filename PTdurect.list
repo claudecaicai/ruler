@@ -18,9 +18,7 @@ DOMAIN-SUFFIX,icc2022.com
 DOMAIN-SUFFIX,iyuu.cn
 DOMAIN-SUFFIX,bangumi.tv
 DOMAIN-SUFFIX,fanart.tv
-#我的域名
-#DOMAIN-SUFFIX,claudecaicai.top
-#DOMAIN-KEYWORD,claudecaicai
+ 
 # 域名关键词匹配
 DOMAIN-KEYWORD,qingwa
 DOMAIN-KEYWORD,qingwapt
