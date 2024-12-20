@@ -4,6 +4,8 @@
 # 域名后缀匹配
 #PT
 DOMAIN-SUFFIX,qingwapt.com
+DOMAIN-SUFFIX,qingwapt.pro
+DOMAIN-SUFFIX,qingwapt.org
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,hdkyl.in
@@ -18,6 +20,7 @@ DOMAIN-SUFFIX,icc2022.com
 DOMAIN-SUFFIX,iyuu.cn
 DOMAIN-SUFFIX,sunnypt.top
 DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,springsunday.net
 
 #MP相关
 DOMAIN-SUFFIX,bangumi.tv
@@ -27,8 +30,8 @@ DOMAIN-SUFFIX,claudecaicai.top
 
  
 # 域名关键词匹配
-DOMAIN-KEYWORD,qingwa
 DOMAIN-KEYWORD,qingwapt
+DOMAIN-KEYWORD,qingwa
 DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,hdkyl
 DOMAIN-KEYWORD,carpt
@@ -39,26 +42,13 @@ DOMAIN-KEYWORD,52pt
 DOMAIN-KEYWORD,1ptba
 DOMAIN-KEYWORD,agsvpt
 DOMAIN-KEYWORD,icc2022
+DOMAIN-KEYWORD,czhch
 DOMAIN-KEYWORD,iyuu
 DOMAIN-KEYWORD,sunnypt
 DOMAIN-KEYWORD,audiences
+DOMAIN-KEYWORD,cinefiles
+DOMAIN-KEYWORD,springsunday
 
 #MP相关
-DOMAIN-SUFFIX,bangumi
-DOMAIN-SUFFIX,fanart
-
-
-#电视直播
-# 以下规则需要国内直连
-## TPTV
-DOMAIN-SUFFIX,mobaibox.com
-IP-CIDR,183.207.0.0/16,no-resolve
-
-## YSP
-DOMAIN-SUFFIX,cctv.cn
-DOMAIN-SUFFIX,yangshipin.cn
-
-## ITV
-DOMAIN-SUFFIX,dnsany.com
-DOMAIN-SUFFIX,cmvideo.cn
-DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-KEYWORD,bangumi
+DOMAIN-KEYWORD,fanart
