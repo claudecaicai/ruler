@@ -28,7 +28,7 @@ DOMAIN-SUFFIX,bangumi.tv
 DOMAIN-SUFFIX,fanart.tv
 #自定义
 DOMAIN-SUFFIX,claudecaicai.top
-
+DOMAIN-KEYWORD,claudecaicai
  
 # 域名关键词匹配
 DOMAIN-KEYWORD,qingwapt
