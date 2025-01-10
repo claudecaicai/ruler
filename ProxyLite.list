@@ -7,7 +7,8 @@ DOMAIN-SUFFIX,zimuku.org
 DOMAIN-SUFFIX,assrt.net
 DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,a4k.ne
-
+DOMAIN-SUFFIX,fanart-tv.webpkgcache.com
+DOMAIN-SUFFIX,fanart-tv
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
