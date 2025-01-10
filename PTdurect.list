@@ -24,12 +24,6 @@ DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,kp.m-team.cc
 
-#MP相关
-#DOMAIN-SUFFIX,bangumi.tv
-#DOMAIN-SUFFIX,fanart.tv
-#DOMAIN-KEYWORD,bangumi
-#DOMAIN-KEYWORD,fanart
-
 #自定义
 DOMAIN-SUFFIX,claudecaicai.top
 DOMAIN-KEYWORD,claudecaicai
@@ -55,6 +49,3 @@ DOMAIN-KEYWORD,cinefiles
 DOMAIN-KEYWORD,springsunday
 DOMAIN-KEYWORD,hhanclub
 
-#MP相关
-DOMAIN-KEYWORD,bangumi
-DOMAIN-KEYWORD,fanart
