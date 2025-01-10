@@ -7,9 +7,7 @@ DOMAIN-SUFFIX,zimuku.org
 DOMAIN-SUFFIX,assrt.net
 DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,a4k.ne
-DOMAIN-SUFFIX,fanart-tv.webpkgcache.com
-DOMAIN-SUFFIX,fanart-tv
-DOMAIN-SUFFIX,fanart.tv
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
@@ -17,8 +15,7 @@ DOMAIN-KEYWORD,lalayun
 DOMAIN-KEYWORD,zimuku
 DOMAIN-KEYWORD,assrt
 DOMAIN-KEYWORD,a4k
-DOMAIN-KEYWORD,fanart
-DOMAIN-KEYWORD,fanart.tv
+
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
