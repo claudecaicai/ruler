@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,yunpan1.cc
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
+# MP
+DOMAIN-SUFFIX,bgm.tv
+
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
