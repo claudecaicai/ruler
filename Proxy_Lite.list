@@ -2,6 +2,9 @@
 
 #MP
 DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,bgm.tv
+DOMAIN-SUFFIX,bangumi.tv
+DOMAIN-KEYWORD,bangumi
 DOMAIN-KEYWORD,fanart
 
 # 域名后缀匹配
