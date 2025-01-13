@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bangumi.tv
 DOMAIN-KEYWORD,bangumi
 DOMAIN-KEYWORD,fanart
+DOMAIN-KEYWORD,themoviedb
+DOMAIN-KEYWORD,thetvdb
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
