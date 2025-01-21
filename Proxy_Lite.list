@@ -8,7 +8,6 @@ DOMAIN-KEYWORD,bangumi
 DOMAIN-KEYWORD,fanart
 DOMAIN-KEYWORD,themoviedb
 DOMAIN-KEYWORD,thetvdb
-DOMAIN-SUFFIX,xui.claudecaicai.top
 DOMAIN-SUFFIX,v2rayssr.com
 
 # 域名后缀匹配
@@ -57,3 +56,5 @@ IP-CIDR,208.67.220.220/32,no-resolve
 # 自定义
 IP-CIDR,152.67.199.165/32
 IP-CIDR,64.181.254.192/32
+DOMAIN-SUFFIX,xui.claudecaicai.top
+DOMAIN-SUFFIX,us.claudecaicai.top
