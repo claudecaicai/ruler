@@ -58,4 +58,3 @@ IP-CIDR,208.67.220.220/32,no-resolve
 # 自定义
 IP-CIDR,152.67.199.165/32
 IP-CIDR,64.181.254.192/32
-DOMAIN-SUFFIX,claudecaicai.ip-ddns.com
