@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "qingwapt.com",
+        "qingwapt.pro",
+        "qingwapt.org",
+        "m-team.cc",
+        "m-team.io",
+        "hdkyl.in",
+        "carpt.net",
+        "btschool.club",
+        "haidan.video",
+        "hdfans.org",
+        "1ptba.com",
+        "agsvpt.com",
+        "52pt.site",
+        "iyuu.cn",
+        "sunnypt.top",
+        "audiences.me",
+        "springsunday.net",
+        "hhanclub.top",
+        "kp.m-team.cc",
+        "totheglory.im"
+      ],
+      "domain_keyword": [
+        "qingwapt",
+        "qingwa",
+        "m-team",
+        "hdkyl",
+        "carpt",
+        "btschool",
+        "haidan",
+        "hdfans",
+        "52pt",
+        "1ptba",
+        "agsvpt",
+        "czhch",
+        "iyuu",
+        "sunnypt",
+        "audiences",
+        "cinefiles",
+        "springsunday",
+        "hhanclub",
+        "totheglory"
+      ]
+    }
+  ]
+}
