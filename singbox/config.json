@@ -1,12 +1,15 @@
 {
   "version": "2.0.0",
   "resource": {
+    # 容器中存放视频的文件夹，可根据 docker-compose.yml 中的配置进行修改
     "lists": ["/video"],
+    # 过滤允许播放的文件类型，如mp4、flv等
     "extensions": []
   },
   "output": {
     "lists": [
       {
+        # 推流地址
         "path": "rtmp://live-push.bilivideo.com/live-bvc/?streamname=live_******_******&key=**************&schedule=rtmp&pflag=1"
       }
     ],
@@ -15,7 +18,9 @@
   "play": {
     "fill_strategy": "ratio",
     "skip_invalid_resource": true,
+    # 启用推流编码缓存，会生成缓存，命中缓存节约CPU资源
     "cache_on": true,
+    # 播放模式，目前为按顺序且循环播放，其他参数请参考KPlayer文档
     "play_model": "loop"
   }
 }
