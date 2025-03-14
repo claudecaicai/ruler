@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "resource": {
+    "lists": ["/video"],
+    "extensions": []
+  },
+  "output": {
+    "lists": [
+      {
+        "path": "rtmp://live-push.bilivideo.com/live-bvc/?streamname=live_******_******&key=**************&schedule=rtmp&pflag=1"
+      }
+    ],
+    "reconnect_internal": 5
+  },
+  "play": {
+    "fill_strategy": "ratio",
+    "skip_invalid_resource": true,
+    "cache_on": true,
+    "play_model": "loop"
+  }
+}
