@@ -1,8 +1,8 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
-# 域名后缀匹配
-#PT
+
+#PT域名后缀匹配
 DOMAIN-SUFFIX,qingwapt.com
 DOMAIN-SUFFIX,qingwapt.pro
 DOMAIN-SUFFIX,qingwapt.org
@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,kp.m-team.cc
 DOMAIN-SUFFIX,totheglory.im
 
 
-# 域名关键词匹配
+# PT域名关键词匹配
 DOMAIN-KEYWORD,qingwapt
 DOMAIN-KEYWORD,qingwa
 DOMAIN-KEYWORD,m-team
@@ -45,3 +45,7 @@ DOMAIN-KEYWORD,cinefiles
 DOMAIN-KEYWORD,springsunday
 DOMAIN-KEYWORD,hhanclub
 DOMAIN-KEYWORD,totheglory
+
+# 自定义
+DOMAIN-KEYWORD,claudecaicai
+DOMAIN-SUFFIX,claudecaicai.top
