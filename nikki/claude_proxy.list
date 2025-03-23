@@ -9,6 +9,8 @@ DOMAIN-KEYWORD,fanart
 DOMAIN-KEYWORD,themoviedb
 DOMAIN-KEYWORD,thetvdb
 DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,us.claudecaicai.top
+
 
 # IP段匹配
 IP-CIDR,146.56.101.3/32
