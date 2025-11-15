@@ -18,3 +18,6 @@ IP-CIDR,64.181.254.192/32
 # 自定义
 DOMAIN-KEYWORD,debian
 DOMAIN-SUFFIX,subtitlefashion.top
+DOMAIN-KEYWORD,miguvideo
+DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-KEYWORD,miguvideo
