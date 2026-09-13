@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bangumi.tv
 DOMAIN-KEYWORD,bangumi
 DOMAIN-KEYWORD,fanart
-DOMAIN-KEYWORD,themoviedb
+#DOMAIN-KEYWORD,themoviedb
 DOMAIN-KEYWORD,thetvdb
 DOMAIN-SUFFIX,v2rayssr.com
 
@@ -21,7 +21,6 @@ DOMAIN-KEYWORD,debian
 DOMAIN-SUFFIX,subtitlefashion.top
 DOMAIN-KEYWORD,miguvideo
 DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-KEYWORD,miguvideo
 DOMAIN-KEYWORD,emotn
 DOMAIN-SUFFIX,com.emotn.store
 DOMAIN-SUFFIX,com.emotn.ui
